@@ -1,0 +1,15 @@
+
+h1
+{
+	color: red; 
+	font-size: 20px;
+}
+
+.body_backgorund {
+	background-image:linear-gradient(to right, rgb(0, 183, 255), rgb(229, 255, 0), rgb(29, 27, 27), rgb(0, 255, 115), rgb(247, 65, 41)) ;
+}
+
+#cnv{
+	border: 2px solid rgb(0, 0, 0);
+}
+
